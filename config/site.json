@@ -2,7 +2,7 @@
   "userPrincipalName": "JohannaL@4ykltz.onmicrosoft.com",
   "icon": "/icons/128.png",
   "title": "morarity's OneDrive",
-  "baseDirectory": "/Public",
+  "baseDirectory": "/",
   "maxItems": 100,
   "googleFontSans": "Inter",
   "googleFontMono": "Fira Mono",
